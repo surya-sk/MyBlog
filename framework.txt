@@ -1,0 +1,14 @@
+For this website, I used PHP and mySQL to add funtionality to the website. The funtionality includes allowing users to create posts, post comments, view other users' profiles and upload pictures. A create account feature was added along with login functionality, that kept users logged in 
+using sessions. That enables posts and images to belong to a certain user. The session would time out either when the user logs out or when the browser is closed. 
+References:
+https://startbootstrap.com/templates/blog-home/
+https://startbootstrap.com/templates/blog-post/
+https://getbootstrap.com/docs/4.0/components/forms/
+https://www.w3schools.com/php/php_sessions.asp
+http://html5pattern.com/Passwords
+
+The website is not hosted, I used MAMP to test it out. If you want to test the website or make changes to it, install MAMP and copy the contents of this repository 
+into the htdocs folder and run it with localhost.
+
+All the code used other than the bootstrap template is mine. Some of the ideas were taken from websites on the internet and I have cited them above. This project was done 
+for my Intro to Server-Side Scripting course at Dalhousie University.
